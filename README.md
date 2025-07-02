@@ -61,7 +61,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilmukheja19&show_icons=true&locale=en&theme=tokyonight" alt="nikhilmukheja19" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilmukheja19&theme=tokyonight" alt="nikhilmukheja19" />
+<img src="https://streak-stats.demolab.com/?user=nikhilmukheja19&theme=tokyonight" alt="nikhilmukheja19" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilmukheja19&layout=compact&theme=tokyonight" alt="nikhilmukheja19" />
 </p>
