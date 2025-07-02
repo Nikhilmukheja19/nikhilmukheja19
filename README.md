@@ -9,10 +9,10 @@
 
 ### 💫 About Me
 
-- 🔭 I’m currently working on **React.js projects**
+- 🔭 I’m currently working on **Full-Stack Web projects**
 - 🌱 I’m currently learning **Data Structures, Algorithms & System Design**
 - 👨‍💻 All of my projects are available at [Portfolio](https://your-portfolio-link.com)
-- 📫 How to reach me: **nikhil@example.com**
+- 📫 How to reach me: **nikhilmukheja1@gmail.com**
 - ⚡ Fun fact: I love playing cricket and exploring new tech
 
 ---
@@ -24,8 +24,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/express-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/typescript-original.svg" width="40" height="40"/>
 </p>
 
 ---
